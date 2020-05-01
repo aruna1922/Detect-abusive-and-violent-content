@@ -20,4 +20,4 @@ Points to be noted while running the code:
           2)To download packages such as punkt,stop words,run the following command-
           nltk.download('punkt')
           nltk.download('stopwords')
-![picture](img/1.png)
+![alt text](images/1.png)
