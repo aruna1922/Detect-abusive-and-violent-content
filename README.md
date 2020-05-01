@@ -20,4 +20,4 @@ Points to be noted while running the code:
           2)To download packages such as punkt,stop words,run the following command-
           nltk.download('punkt')
           nltk.download('stopwords')
-<img src:"1.png">
+![alt text](https://github.com/[aruna1922]/[Detect-abusive-and-violent-content]/blob/[branch]/1.png?raw=true)
