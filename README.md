@@ -11,9 +11,8 @@ Installations:
          Install Python and Jupyter using the Anaconda Distribution.
 
 Points to be noted while running the code:
-          To download wordcloud use the following command
+          To download wordcloud use the following command-
           %pip install wordcloud
-          
-          To download packages such as punkt,stop words,run the following command
+          To download packages such as punkt,stop words,run the following command-
           nltk.download('punkt')
           nltk.download('stopwords')
