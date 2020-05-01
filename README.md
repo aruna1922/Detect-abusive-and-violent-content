@@ -21,4 +21,4 @@ Points to be noted while running the code:
           nltk.download('punkt')
           nltk.download('stopwords')
 
-![Alt text](C:\Users\hp\Desktop\"Capture1")
+![Alt text](C:\Users\hp\Desktop\Capture1.jpg?raw=true)
