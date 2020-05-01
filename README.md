@@ -20,3 +20,5 @@ Points to be noted while running the code:
           2)To download packages such as punkt,stop words,run the following command-
           nltk.download('punkt')
           nltk.download('stopwords')
+
+![Alt text](C:\Users\hp\Desktop\"Capture1")
