@@ -4,7 +4,7 @@ Introduction :
         Performing text analytics on the comments and classify them into abusive and not abusive.
         
 Prerequisites:
-          Python 3.3 or greater
+          Python 3.3 or greater,
           Jupyter Notebook
 
 Installations:
